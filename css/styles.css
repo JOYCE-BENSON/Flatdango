@@ -1,0 +1,19 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    margin-bottom: 20px;
+}
+
+#films {
+    max-height: 500px;
+    overflow-y: auto;
+}
+
+img {
+    margin: 20px 0;
+}
